@@ -18,5 +18,8 @@
   "homepage": "https://github.com/YuxuanWang-CHINA/picharbor#readme",
   "dependencies": {
     "watermarkor": "^3.0.2"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
   }
 }
